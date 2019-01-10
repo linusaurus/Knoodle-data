@@ -1,0 +1,9 @@
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\bin\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.deps.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\bin\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.csprojAssemblyReference.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.csproj.CoreCompileInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.AssemblyInfoInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.AssemblyInfo.cs
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\bin\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\Weaselware.Knoodle.Data\obj\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.pdb

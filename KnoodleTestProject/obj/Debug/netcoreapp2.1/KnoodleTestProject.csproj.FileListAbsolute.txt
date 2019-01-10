@@ -1,0 +1,17 @@
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.csprojAssemblyReference.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.csproj.CoreCompileInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.AssemblyInfoInputs.cache
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.AssemblyInfo.cs
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\KnoodleTestProject.deps.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\KnoodleTestProject.runtimeconfig.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\KnoodleTestProject.runtimeconfig.dev.json
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\KnoodleTestProject.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\KnoodleTestProject.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\bin\Debug\netcoreapp2.1\Weaselware.Knoodle.Data.pdb
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.csproj.CopyComplete
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.dll
+C:\Users\rich.DESIGNSYNTHESIS\Source\Repos\Weaselware.Knoodle.Data\KnoodleTestProject\obj\Debug\netcoreapp2.1\KnoodleTestProject.pdb
